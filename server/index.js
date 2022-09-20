@@ -40,5 +40,5 @@ app.post("/createUsers", async (req, res) => {
 
 const PORT = 3030;
 app.listen(PORT, () => {
-  console.log(`Server is running on port number ${PORT}`);
+  console.log(`Server is ruunning on port number ${PORT}`);
 });
